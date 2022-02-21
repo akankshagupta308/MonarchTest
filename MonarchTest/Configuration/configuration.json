@@ -1,0 +1,17 @@
+﻿{
+  "Env": "dev",
+  "MktgUrl": "https://info761225.wixsite.com/mysite",
+  "BaseUrl": "https://dev.mybocbank.com/",
+  "PrereqPersonalUrl": "https://dev.mybocbank.com/before-we-start",
+  "PrereqBusinessUrl": "https://dev.mybocbank.com/before-we-start?createAccount=Business",
+  "validEmail": "akanksha.g@theidcgroup.com",
+  "validPwd": "BOCpass@123456",
+  "validUsername": "Akanksha G",
+  "invalidEmail": "mark.harris",
+  "wrongPwd": "boc123",
+  "wrongEmail": "akanskha.g@theidcgroup.com",
+  "forgotPwdEmail": "mark.harris@mailsac.com",
+  "forgotPwdInvalidCode": "0000",
+  "forgotPwdValidPwd1": "BOCpass@123456",
+  "forgotPwdValidPwd2": "BOCpass@1234567"
+}
